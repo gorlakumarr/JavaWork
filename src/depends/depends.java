@@ -1,7 +1,8 @@
 package depends;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import qa.Assert;
 
 public class depends {
 

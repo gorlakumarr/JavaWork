@@ -1,8 +1,9 @@
 package jenkinsSample;
 
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import qa.Assert;
 
 public class SampleJenkins {
 	@Test
